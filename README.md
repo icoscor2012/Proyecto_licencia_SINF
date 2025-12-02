@@ -51,5 +51,3 @@ Las restricciones principales son:
 - Es una licencia alineada con valores de libertad, transparencia y acceso universal.  
 - Asegura que el proyecto pueda beneficiar a cualquiera que desee aprender, mejorar o compartir.  
 - Fomenta una comunidad abierta y evita usos restrictivos por parte de terceros.
-
-En resumen, GPL-3.0 es una opción ideal si priorizo la ética, la colaboración y la libre distribución del conocimiento por encima del beneficio económico directo.
